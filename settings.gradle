@@ -1,0 +1,2 @@
+rootProject.name = "WeatherAppDemoJava"
+include ':app'
